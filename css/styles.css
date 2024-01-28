@@ -80,3 +80,22 @@ body {
     justify-content: center;
     align-items: center;
 }
+.platos1-4 {
+    height: 30em;
+    width: 94em;
+    background-color: red;
+}
+.platos {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+}
+.Roma {
+    height: 15em;
+    background-color: black;
+}
+.Nairobi {
+    height: 15em;
+    background-color: aquamarine;
+}
