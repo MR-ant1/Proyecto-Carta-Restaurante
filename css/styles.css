@@ -1,7 +1,7 @@
 body {
     margin: 0em;
     padding: 0em;
-    background-color: #ffebd3;
+    background-color: #fffaf3;
     font-family:Arial, Helvetica, sans-serif;
     display:flex;
     flex-direction: column;
@@ -9,12 +9,11 @@ body {
     align-items: center;
 }
 .restaurantname {
+    width:96;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    font-size: 3em;
-    color:rgb(255, 129, 45);
 }
 .restaurantlogo {
     display:flex;
@@ -41,13 +40,41 @@ body {
 }
 .logo {
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center; 
 }
 .lema {
     height: 4em;
     width: 94em;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.burger {
+    height: 3em;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+.name1 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.businessname {
+    width: 30em;
+    font-size: 3em;
+    color:rgb(255, 129, 45);
     display:flex;
     flex-direction: column;
     justify-content: center;
