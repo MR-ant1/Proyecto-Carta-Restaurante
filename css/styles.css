@@ -14,23 +14,26 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 3em;
-    color:rgb(255, 99, 99);
+    color:rgb(255, 129, 45);
 }
 .restaurantlogo {
     display:flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center; 
     font-size: 1em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(250, 121, 36);
 }
 .trademark {
     height: 5em;
-    width: 50em;
+    width: 44em;
     display:flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    flex-direction: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+
 }
 .worldfood {
     height:25em;
@@ -43,8 +46,8 @@ body {
     align-items: center; 
 }
 .lema {
-    height: 5em;
-    width: 50em;
+    height: 4em;
+    width: 94em;
     display:flex;
     flex-direction: column;
     justify-content: center;
