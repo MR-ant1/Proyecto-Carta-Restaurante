@@ -1,128 +1,145 @@
 body {
-    min-height: 100vh;
-    width: 95vw;
-    margin: 0em;
-    padding: 0em;
-    background-color: #fff1de;
-    font-family:Arial, Helvetica, sans-serif;
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
+   min-height: 100vh;
+   width: 95vw;
+   margin: 0em;
+   padding: 0em;
+   background-color: #fff1de;
+   font-family:Arial, Helvetica, sans-serif;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   
 }
 .title {
-    width: 94em;
-    display:flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-decoration: underline;
-    color: rgb(255, 137, 74)
+   width: 94em;
+   display:flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   text-decoration: underline;
+   color: rgb(255, 137, 74)
 }
 .restaurantlogo {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; 
-    font-size: 1em;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(250, 121, 36);
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center; 
+   font-size: 1em;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: rgb(250, 121, 36);
 }
 .trademark {
-    width: 94em;
-    display:flex;
-    justify-content: center;
-    flex-direction: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 1em;
+   width: 94em;
+   display:flex;
+   justify-content: center;
+   flex-direction: center;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding: 1em;
 }
 .worldfood {
-   width: 25em;
+  width: 25em;
 }
 .logo {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; 
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center; 
 }
 .lema {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 }
 
 .titletext {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 1em;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-size: 1em;
 }
 .platos {
-    display: flex;
-    flex-direction: row;
-    justify-content:center;
-    align-items: center;
+   display: flex;
+   flex-direction: row;
+   justify-content:center;
+   align-items: center;
 }
- .menumessage {
-    display: flex;
-    justify-content: center;
-    margin: 2em;
- }
- #spaguetti {
-    width: 20em;
- }
- #pollocurry {
-    width: 20em;
- }
- #sushi {
-    width: 20em;
- }
- #arepas {
-    width: 20em;
- }
- #tajin {
-    width: 20em;
- }
- #pilaf {
-    width: 20em;
- }
- #stoofvlees {
-    width: 20em;
- }
- #burrito {
-    width: 20em;
- }
- .plato {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-    justify-content: center;
- }
- .nav {
-    justify-content: space-between;
-    padding: 0.3em;
- }
- .contactdata {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
-    margin: 1.5em;
- }
- .info {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 3em;
- }
+.menumessage {
+   display: flex;
+   justify-content: center;
+   margin: 2em;
+}
+#spaguetti {
+   width: 20em;
+}
+#pollocurry {
+   width: 20em;
+}
+#sushi {
+   width: 20em;
+}
+#arepas {
+   width: 20em;
+}
+#tajin {
+   width: 20em;
+}
+#pilaf {
+   width: 20em;
+}
+#stoofvlees {
+   width: 20em;
+}
+#burrito {
+   width: 20em;
+}
+.plato {
+   display: flex;
+   align-items: center;
+   flex-direction: row;
+   justify-content: center;
+}
+.nav {
+   justify-content: space-between;
+   padding: 0.3em;
+}
+.contactdata {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.info {
+   display: flex;
+   flex-direction:column;
+   justify-content: center;
+   align-items: center;
+   margin: 3em;
+}
 a {
-   color: rgb(253, 141, 60);
-   text-decoration: none;
+  color: rgb(253, 141, 60);
+  text-decoration: none;
 }
 .fillingcontact {
-   height: 10em;
+  height: 10em;
+}
+.email {
+   display: flex;
+   flex-direction: column;
+   justify-self: center;
+   align-items: center;
+}
+.telephone {
+   display: flex;
+   flex-direction: column;
+   justify-self: center;
+   align-items: center;
+}
+.navcontact {
+   display: flex;
+   flex-direction: column;  
+   justify-content:center;
+   align-items: center;
 }
