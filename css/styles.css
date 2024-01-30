@@ -17,6 +17,8 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    text-decoration: underline;
+    color: rgb(255, 137, 74)
 }
 .restaurantlogo {
     display:flex;
@@ -33,6 +35,7 @@ body {
     justify-content: center;
     flex-direction: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1em;
 }
 .worldfood {
    width: 25em;
@@ -100,16 +103,26 @@ body {
  }
  .nav {
     justify-content: space-between;
+    padding: 0.3em;
  }
  .contactdata {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: 2em;
+    margin: 1.5em;
  }
  .info {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: 3em;
  }
+a {
+   color: rgb(253, 141, 60);
+   text-decoration: none;
+}
+.fillingcontact {
+   height: 10em;
+}
