@@ -20,7 +20,7 @@ Welcome to my first project in git! this one is an basic one for the moment wher
 • Find out where to contact this business for reservations or any other purpose!
 • Navigate freely between different sections of this menu
 
-<h3>WHERE TO TRY AND VISUALIZE IT:mag: </h3> 
+<h3>WHERE TO TRY AND VISUALIZE IT :mag: </h3> 
 
 Find the repository of this proyect on this link:
 
