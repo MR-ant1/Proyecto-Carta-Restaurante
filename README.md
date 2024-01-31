@@ -6,7 +6,7 @@ Welcome to my first project in git! this one is an basic one for the moment wher
 - [Features :bulb:](#Features-)
 - [Where to try and visualize it :mag:](#Where-to-try-and-visualize-it-) 
 - [Database design :computer:](#Database-design-)
-- [Author :pencil2:](readme/author.md)
+- [Author :pencil2:](#Author-)
 - [Potential improvements :heavy_check_mark:](#Potential-improvements-)
 - [Acknowledgments :raised_hands:][def]
 
