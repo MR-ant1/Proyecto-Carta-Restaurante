@@ -15,10 +15,10 @@ Welcome to my first project in git! this one is an basic one for the moment wher
 
 <h3>FEATURES :bulb:</h3> 
 
-• Discover the logo and slogan from La Vuelta al Mundo
-• Check out the different meals from each part of the world available in this restaurant's menu
-• Find out where to contact this business for reservations or any other purpose!
-• Navigate freely between different sections of this menu
+• Discover the logo and slogan from La Vuelta al Mundo <br>
+• Check out the different meals from each part of the world available in this restaurant's menu <br>
+• Find out where to contact this business for reservations or any other purpose! <br>
+• Navigate freely between different sections of this menu <br>
 
 <h3>WHERE TO TRY AND VISUALIZE IT :mag: </h3> 
 
@@ -38,14 +38,14 @@ Here I leave some screenshots showing the index and menu codes and final result:
 ![Alt text](<img/Captura de pantalla 2024-01-31 154644.png>)
 ![Alt text](<img/Captura de pantalla 2024-01-31 154703.png>)
 <h3>AUTHOR :pencil2:</h3> 
-Antonio Rodrigo - Full Stack Developer student
+Antonio Rodrigo - Full Stack Developer student <br>
 <a href="https://github.com/MR-ant1">GitHub - <a href="https://www.linkedin.com/in/antonio-rodrigo-camacho-306b60205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbZw124AlRu2kGWtATXloag%3D%3D">Linkedin</a>
 
 <h3>POTENTIAL IMPROVEMENTS :heavy_check_mark:</h3> 
 
-• <strong> Add a reservation form:</strong> the next step for a menu like this in a official website would be to have the possibility to implement this function to give the customer the maximal opportunities to try the restaurant
-•<strong> Suggestion form:</strong> It would be interesting to give the possibility to the customers to purpose new meals from any other countries
-• <strong>Reviews:</strong> Showing past customers opinions, may atract other ones to the business
+• <strong> Add a reservation form:</strong> the next step for a menu like this in a official website would be to have the possibility to implement this function to give the customer the maximal opportunities to try the restaurant <br>
+•<strong> Suggestion form:</strong> It would be interesting to give the possibility to the customers to purpose new meals from any other countries <br>
+• <strong>Reviews:</strong> Showing past customers opinions, may atract other ones to the business <br>
 
 <h3>ACKNOWLEDGMENTS :raised_hands:</h3> 
 
