@@ -16,8 +16,8 @@ Welcome to my first project in git! this one is an basic one for the moment wher
 ### FEATURES :bulb:
 
 - Discover the logo and slogan from La Vuelta al Mundo
-- Check out the different meals from each part of the world available in this restaurant's menu <br>
-- Find out where to contact this business for reservations or any other purpose! <br>
+- Check out the different meals from each part of the world available in this restaurant's menu
+- Find out where to contact this business for reservations or any other purpose!
 - Navigate freely between different sections of this menu
 
 ### WHERE TO TRY AND VISUALIZE IT :mag: 
@@ -44,9 +44,9 @@ Here I leave some screenshots showing the index and menu codes and final result:
 
 ### POTENTIAL IMPROVEMENTS :heavy_check_mark: 
 
-- <strong> Add a reservation form:</strong> the next step for a menu like this in a official website would be to have the possibility to implement this function to give the customer the maximal opportunities to try the restaurant <br>
-- <strong> Suggestion form:</strong> It would be interesting to give the possibility to the customers to purpose new meals from any other countries <br>
-- <strong>Reviews:</strong> Showing past customers opinions, may atract other ones to the business <br>
+-Add a reservation form: the next step for a menu like this in a official website would be to have the possibility to implement this function to give the customer the maximal opportunities to try the restaurant 
+- Suggestion form: It would be interesting to give the possibility to the customers to purpose new meals from any other countries 
+-Reviews: Showing past customers opinions, may atract other ones to the business 
 
 ### ACKNOWLEDGMENTS :raised_hands:
 
