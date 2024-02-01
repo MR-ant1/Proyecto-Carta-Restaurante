@@ -3,8 +3,7 @@ body {
    width: 95vw;
    margin: 0em;
    padding: 0em;
-   background-color: #fff1de;
-   font-family:Arial, Helvetica, sans-serif;
+   background-color: #e3e3e3;
    display:flex;
    flex-direction: column;
    justify-content: center;
@@ -17,17 +16,17 @@ body {
    flex-direction: row;
    justify-content: center;
    align-items: center;
-   text-decoration: underline;
-   color: rgb(255, 137, 74)
+   color: rgb(255, 138, 138)
+   
 }
 .restaurantlogo {
    display:flex;
    flex-direction: column;
    justify-content: center;
    align-items: center; 
-   font-size: 1em;
+   font-size: 1.2em;
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   color: rgb(250, 121, 36);
+   color: rgb(255, 138, 138);
 }
 .trademark {
    width: 94em;
@@ -59,12 +58,6 @@ body {
    justify-content: center;
    align-items: center;
    font-size: 1em;
-}
-.platos {
-   display: flex;
-   flex-direction: row;
-   justify-content:center;
-   align-items: center;
 }
 .menumessage {
    display: flex;
@@ -100,10 +93,15 @@ body {
    align-items: center;
    flex-direction: row;
    justify-content: center;
+   margin-left: 2em;
+   border-style: groove;
+   border-width: 0.5em;
+   background-color: #d8d8d8;
 }
 .nav {
    justify-content: space-between;
    padding: 0.3em;
+   align-items: flex-start;
 }
 .contactdata {
    display: flex;
@@ -119,7 +117,7 @@ body {
    align-items: center;
 }
 a {
-  color: rgb(253, 141, 60);
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 .fillingcontact {
@@ -142,4 +140,24 @@ a {
    flex-direction: column;  
    justify-content:center;
    align-items: center;
+}
+.ingredientes {
+   font-family:fantasy;
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   align-items: center;
+}
+.recipeName {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.recipePrice {
+height: 8em;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-end;
 }

@@ -2,7 +2,7 @@
 Welcome to my first project in git! this one is an basic one for the moment where i'm testing my skills in programming while I learn both lenguajes mentioned down here
 
 <h3>TABLE OF CONTENTS :open_file_folder:</h3> 
-• Stack :wrench:(#Stack-) <br>
+•[ Stack :wrench:](#Stack-) <br>
 • Features :bulb:(#Features-) <br>
 • Where to try and visualize it :mag:(#Where-to-try-and-visualize-it-) <br>
 • Database design :computer:(#Database-design-) <br>
