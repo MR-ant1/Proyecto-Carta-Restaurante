@@ -11,17 +11,10 @@
 <body>
 
     <div class="container-fluid">
-        <div class="row navcontact">
-            <div class="col-12 col-md-6 col-lg-3 ">
-                <ul class="nav ">
-                        <li class="nav-item">
-                        <a href="../index.html">Inicio</a></li>
-                        <li class="nav-item">
-                        <a href="menu.html">Menú</a></li>
-                        <li class="nav-item">
-                        <a href="contacto.html">Contacto</a></li>
-                    </ul>
-            </div>
+        <div id="burger">
+            <a class="btn btn-primary" href="../index.html" role="button">Inicio</a>
+            <a class="btn btn-primary" href="menu.html" role="button">Menú</a>
+            <a class="btn btn-primary" href="contacto.html" role="button">Contacto</a>
         </div>
         <div class="row info">
             Para realizar una reserva, contáctenos mediante:
@@ -31,8 +24,17 @@
                 E-mail: <a href="demomentonohaycorreo">lavueltaalmundorest@gmail.com</a>
             </div>
             <div class="col telephone">
-                Numero tfn: 677766677 <br> (También Whatsapp)
+                <strong>Numero tfn: 677766677<br>(También Whatsapp)</strong>
             </div>
+        </div>
+        <div class="row opinions">
+            <div class="form-floating">
+                <textarea class="form-control" placeholder="Sugerencias" id="floatingTextarea"></textarea>
+                <label for="floatingTextarea">¡Dejanos tu opinión o sugerencia aquí! </label>
+          </div>
+          <div class="col">
+            <button>Enviar</button>
+          </div>
         </div>
         <div class="row contactPhoto">
             <img src="../img/descarga.png" alt="RestaurantsIndoor">

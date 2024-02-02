@@ -18,9 +18,11 @@ body {
    justify-content: center;
    align-items: center;
    color: rgb(255, 138, 138)
-   
-   
 }
+#burger {
+display: flex;
+justify-content: center;
+} 
 .restaurantlogo {
    display:flex;
    flex-direction: column;
@@ -31,12 +33,12 @@ body {
    color: rgb(255, 138, 138);
 }
 .trademark {
-   width: 94em;
    display:flex;
+   flex-direction: row;
    justify-content: center;
    flex-direction: center;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   padding: 1em;
+   
 }
 .worldfood {
   width: 25em;
@@ -48,8 +50,9 @@ body {
    align-items: center; 
 }
 .lema {
+   width:20em;
    display:flex;
-   flex-direction: column;
+   flex-direction: row;
    justify-content: center;
    align-items: center;
 }
@@ -98,15 +101,10 @@ body {
    justify-content: center;
    margin-left: 2em;
    border-style: solid;
-   border-width: 0.3em;
+   border-width: 0.1em;
    background-color: #d8d8d8;
    border-radius: 4em;
-   margin-bottom: 0.1em;
-}
-.nav {
-   justify-content: space-between;
-   padding: 0.3em;
-   align-items: flex-start;
+   margin-top: 0.4em;
 }
 .contactdata {
    display: flex;
@@ -121,10 +119,6 @@ body {
    justify-content: center;
    align-items: center;
 }
-a {
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-}
 .email {
    display: flex;
    flex-direction: column;
@@ -136,13 +130,7 @@ a {
    flex-direction: column;
    justify-self: center;
    align-items: center;
-}
-.navcontact {
-   height: 10em;
-   display: flex;
-   flex-direction: column;  
-   justify-content:flex-start;
-   align-items: flex-start;
+   margin-bottom: 0.5em;
 }
 .ingredientes {
    height: 10em;
@@ -176,4 +164,15 @@ align-items: flex-end;
    justify-content: center;
    align-items: center;
    margin-left: 2em;
+   margin-top: 2.5em;
+}
+.btn {
+   margin: 0.3em;
+}
+#registered {
+   width:50em;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
 }
